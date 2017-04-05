@@ -1,4 +1,4 @@
- FROM index.qiniu.com/node
+ FROM node
 
   WORKDIR /app
   ADD package.json /app/
