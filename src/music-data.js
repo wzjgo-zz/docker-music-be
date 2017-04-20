@@ -15,11 +15,6 @@ let musicData = [
     musicImgSrc: 'http://omratag7g.bkt.clouddn.com/%E8%B5%B5%E9%9B%B7.jpg'
   },
   {
-    name: '韩安旭 - 多幸运',
-    src: 'http://m2.music.126.net/N_2fJbqpi8QDnV1YJPCsuw==/3424978721721344.mp3',
-    musicImgSrc: 'http://omratag7g.bkt.clouddn.com/%E9%9F%A9%E5%AE%89%E6%97%AD.jpg'
-  },
-  {
     name: '赵雷 - 理想',
     src: 'http://m2.music.126.net/gQDmHxjY_gAtRE-RKqDQJw==/1413971968361530.mp3',
     musicImgSrc: 'http://omratag7g.bkt.clouddn.com/%E8%B5%B5%E9%9B%B7.jpg'
